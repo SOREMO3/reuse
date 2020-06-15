@@ -51,7 +51,7 @@
 		<hibernate-core.version>5.0.5.Final</hibernate-core.version>
 		<hibernate-envers.version>${hibernate-core.version}</hibernate-envers.version>
 		<hibernate-ehcache.version>${hibernate-core.version}</hibernate-ehcache.version>
-		<hibernate-validator.version>5.2.2.Final</hibernate-validator.version> <!-- 5.1.2.Final -->
+		<hibernate-validator.version>5.3.5.Final</hibernate-validator.version> <!-- 5.1.2.Final -->
 		<hibernate-search-orm.version>5.5.1.Final</hibernate-search-orm.version>
 		<aspectj.version>1.8.5</aspectj.version>
 		<net.sf.ehcache.version>2.8.5</net.sf.ehcache.version>
