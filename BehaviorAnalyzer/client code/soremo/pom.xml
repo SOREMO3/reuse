@@ -48,7 +48,7 @@
 
 		<!-- limited by the version of hibernate-core in spring-framework-orm -->
 		<!--   right now used only for hibernate-envers -->
-		<hibernate-core.version>5.0.5.Final</hibernate-core.version>
+		<hibernate-core.version>5.4.24.Final</hibernate-core.version>
 		<hibernate-envers.version>${hibernate-core.version}</hibernate-envers.version>
 		<hibernate-ehcache.version>${hibernate-core.version}</hibernate-ehcache.version>
 		<hibernate-validator.version>5.2.2.Final</hibernate-validator.version> <!-- 5.1.2.Final -->
